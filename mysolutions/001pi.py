@@ -1,3 +1,4 @@
+# find pi to the n-th digit
 import math
 def pi(digits):
   limit = 100
