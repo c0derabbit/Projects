@@ -1,4 +1,5 @@
-A list of practical projects that anyone can solve in any programming language (See [solutions](https://github.com/thekarangoel/Projects-Solutions)). These projects are divided in multiple categories, and each category has its own folder.
+A list of practical projects that anyone can solve in any programming language (See [solutions](https://github.com/thekarangoel/Projects-Solutions)). These projects are divided in multiple categories, and each category has its own folder.  
+**My solutions are in the [/mysolutions](https://github.com/c0derabbit/Projects/tree/master/mysolutions) folder.**
 
 ## Credits
 
